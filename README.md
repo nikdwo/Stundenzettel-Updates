@@ -16,6 +16,7 @@ Die Datei `SHA256SUMS.txt` enthält die Prüfsumme der APK. Alle hier angebotene
 
 - Die Google-Drive-Anbindung befindet sich nach dem dokumentierten Einrichtungsstand im OAuth-Testbetrieb. Weitere Google-Konten müssen ausdrücklich als Testnutzer freigeschaltet werden; deren Berechtigungen können nach sieben Tagen ablaufen. Lokale Erfassung, Exporte und Dateisicherungen benötigen diese Freischaltung nicht.
 - Automatische Feiertagsregeln gelten ab 2020 und benötigen örtliche Korrekturen, wo Feiertage nicht landesweit gelten.
-- Neue Sicherungen ab 0.1.4 verwenden Format 4 und enthalten auch den erweiterten Bereitschaftsmodus sowie Ganztagskennzeichen. Formate 1–3 bleiben importierbar; ein Downgrade der App ist nicht unterstützt.
+- Version 0.1.6 erfasst tatsächliche Bereitschaftseinsätze per Timer oder Nachtrag. Auswertung und Monatsberichte zeigen sie separat, ohne Anrechnung aufs Stundenkonto.
+- Neue Sicherungen verwenden Format 5 und benötigen Version 0.1.6 oder neuer. Formate 1–4 bleiben importierbar; ein Downgrade ist nicht unterstützt.
 
 Dieses Repository enthält ausschließlich öffentliche Downloadinformationen und signierte APKs. Der App-Quellcode wird separat privat verwaltet. Die von GitHub automatisch angebotenen Quellarchive dieses Download-Repositorys enthalten lediglich dessen Dokumentation.
