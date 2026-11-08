@@ -16,6 +16,6 @@ Die Datei `SHA256SUMS.txt` enthält die Prüfsumme der APK. Alle hier angebotene
 
 - Die Google-Drive-Anbindung befindet sich nach dem dokumentierten Einrichtungsstand im OAuth-Testbetrieb. Weitere Google-Konten müssen ausdrücklich als Testnutzer freigeschaltet werden; deren Berechtigungen können nach sieben Tagen ablaufen. Lokale Erfassung, Exporte und Dateisicherungen benötigen diese Freischaltung nicht.
 - Automatische Feiertagsregeln gelten ab 2020 und benötigen örtliche Korrekturen, wo Feiertage nicht landesweit gelten.
-- Neue Sicherungen ab 0.1.2 verwenden Format 3. Ältere Sicherungen bleiben importierbar; ein Downgrade der App ist nicht unterstützt.
+- Neue Sicherungen ab 0.1.4 verwenden Format 4 und enthalten auch den erweiterten Bereitschaftsmodus sowie Ganztagskennzeichen. Formate 1–3 bleiben importierbar; ein Downgrade der App ist nicht unterstützt.
 
 Dieses Repository enthält ausschließlich öffentliche Downloadinformationen und signierte APKs. Der App-Quellcode wird separat privat verwaltet. Die von GitHub automatisch angebotenen Quellarchive dieses Download-Repositorys enthalten lediglich dessen Dokumentation.
